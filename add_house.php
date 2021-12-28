@@ -19,12 +19,12 @@
                 <p class="smolpads">20 years old</p>
             </div>
             <div class="buttons">
-                <div class="button smolmargs housebutton left"><a href="./index.html">This us a Gryffondor</a></div>
-                <div class="button smolmargs housebutton right"><a href="./index.html">This us a Slytherin</a></div>
+                <div class="button smolmargs housebutton left"><a href="./index.html">This is a Gryffondor</a></div>
+                <div class="button smolmargs housebutton right"><a href="./index.html">This is a Slytherin</a></div>
             </div>
             <div class="buttons">
-                <div class="button smolmargs housebutton"><a href="./index.html">This us a Ravenclaw</a></div>
-                <div class="button smolmargs housebutton"><a href="./index.html">This us a Hufflepuff</a></div>
+                <div class="button smolmargs housebutton"><a href="./index.html">This is a Ravenclaw</a></div>
+                <div class="button smolmargs housebutton"><a href="./index.html">This is a Hufflepuff</a></div>
             </div>
 
             
