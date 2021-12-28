@@ -1,0 +1,122 @@
+body{
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Harry Potter', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.site{
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(32, 37, 66, 0.9);
+    width: 500px;
+    height: 750px;
+    border-radius: 25px;
+}
+
+.buttons{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    display: flex;
+}
+
+.spacer{
+    
+    width: 100%;
+    height: 15%;
+}
+
+.gif{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 30%;
+    display: inline-block;
+    border-radius: 12px;
+    background-color: blue;
+}
+
+.left{
+    margin-left: 0px;
+}
+.right{
+    margin-right: 0px;
+}
+
+a{
+    color: black;
+}
+
+.title{
+    width: 100%;
+    padding-top: 20px;
+}
+
+.form{
+    font-weight: bold;
+    text-align: left;
+}
+
+.padding{
+    padding: 20px;
+}
+
+.smolpads{
+    padding: 5px;
+}
+
+.smolmargs{
+    margin: 5px;
+}
+
+.specs{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: white;
+}
+
+.housebutton{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.index_site{
+    margin-top: 75px;
+    height: 500px;
+}
+
+.submit{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submitbutton{
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    border-radius: 12px;
+    background-color: blue;
+}
